@@ -1,21 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: piaverous # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Pivrous Blog
+    url: https://pivrous.wtf/
+  - name: Grafana
+    url: https://grafana.pivrous.wtf/
+  - name: JellyFin
+    url: https://netflix.pivrous.wtf
+  - name: Telegram Bot - Lotus In Shape
+    url: https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.pivrous.wtf
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -29,3 +29,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - piaverous
