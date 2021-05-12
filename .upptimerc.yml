@@ -14,10 +14,13 @@ sites:
     icon: https://netflix.pivrous.wtf/favicon.ico
   - name: LotusGears - Backend
     url: https://lotus-gears.herokuapp.com/status
-    icon: https://lotusgears.pivrous.wtf/favicon.ico
+    icon: https://lotusgears.pivrous.wtf/icon.png
   - name: LotusGears - Frontend
     url: https://lotusgears.pivrous.wtf/
-    icon: https://lotusgears.pivrous.wtf/favicon.ico
+    icon: https://lotusgears.pivrous.wtf/icon.png
+  - name: LotusGears - Higher Cookery 
+    url: https://higher-cookery.herokuapp.com/healthz
+    icon: https://lotusgears.pivrous.wtf/icon.png
   - name: Telegram Bot - Lotus In Shape
     url: https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec
     icon: https://tiboinshape.com//shop/img/favicon.ico
