@@ -54,6 +54,44 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "LotusGears - Backend",
+    "url": "https://lotus-gears.herokuapp.com/status",
+    "icon": "https://lotusgears.pivrous.wtf/favicon.ico",
+    "slug": "lotus-gears-backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 513,
+    "timeDay": 513,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "LotusGears - Frontend",
+    "url": "https://lotusfears.pivrous.wtf/",
+    "icon": "https://lotusgears.pivrous.wtf/favicon.ico",
+    "slug": "lotus-gears-frontend",
+    "status": "down",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-05-12": 0
+    }
+  },
+  {
     "name": "Telegram Bot - Lotus In Shape",
     "url": "https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec",
     "icon": "https://tiboinshape.com//shop/img/favicon.ico",
