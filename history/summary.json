@@ -22,19 +22,19 @@
     "url": "https://grafana.pivrous.wtf/",
     "icon": "https://grafana.pivrous.wtf/public/img/fav32.png",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 1365,
-    "timeWeek": 762,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 799,
+    "timeDay": 1270,
+    "timeWeek": 791,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {
-      "2021-05-18": 0
+      "2021-05-18": 14
     }
   },
   {
