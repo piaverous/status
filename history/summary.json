@@ -47,19 +47,19 @@
     "url": "https://netflix.pivrous.wtf",
     "icon": "https://netflix.pivrous.wtf/favicon.ico",
     "slug": "jelly-fin",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 667,
-    "timeDay": 661,
-    "timeWeek": 704,
-    "timeMonth": 694,
-    "timeYear": 667,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.87%",
+    "time": 672,
+    "timeDay": 761,
+    "timeWeek": 724,
+    "timeMonth": 699,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-06-13": 46
+      "2021-06-13": 62
     }
   },
   {
