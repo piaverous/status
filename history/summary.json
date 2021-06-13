@@ -5,18 +5,17 @@
     "icon": "https://pivrous.wtf/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.77%",
     "time": 1343,
-    "timeDay": 3317,
+    "timeDay": 4002,
     "timeWeek": 1900,
     "timeMonth": 1385,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2021-06-13": 3,
       "2021-05-28": 50,
       "2021-05-25": 61
     }
@@ -26,11 +25,11 @@
     "url": "https://grafana.pivrous.wtf/",
     "icon": "https://grafana.pivrous.wtf/public/img/fav32.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.82%",
     "time": 910,
     "timeDay": 1068,
@@ -38,6 +37,7 @@
     "timeMonth": 956,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2021-06-13": 2,
       "2021-05-28": 49,
       "2021-05-25": 35
     }
@@ -47,9 +47,9 @@
     "url": "https://netflix.pivrous.wtf",
     "icon": "https://netflix.pivrous.wtf/favicon.ico",
     "slug": "jelly-fin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 704,
     "timeMonth": 694,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-13": 0
+    }
   },
   {
     "name": "Bernachon API",
@@ -102,11 +104,11 @@
     "icon": "https://lotusgears.pivrous.wtf/icon.png",
     "slug": "lotus-gears-frontend",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 645,
     "timeDay": 497,
     "timeWeek": 623,
