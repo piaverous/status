@@ -16,7 +16,7 @@
     "timeMonth": 3704,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2021-12-20": 814,
+      "2021-12-20": 824,
       "2021-12-19": 1440,
       "2021-12-18": 1440,
       "2021-12-17": 1440,
@@ -208,7 +208,7 @@
     "timeMonth": 650,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2021-12-20": 814,
+      "2021-12-20": 824,
       "2021-12-19": 1440,
       "2021-12-18": 1440,
       "2021-12-17": 1440,
@@ -555,19 +555,19 @@
     "url": "https://script.google.com/macros/s/AKfycbwx3nl5T7pkQFWoR8Dx_wclWltXJVvNGasvQUChHK1emB-kbbgWyEXGuIMoIimL-Zp0sQ/exec",
     "icon": "https://www.martine-chomik-hypnose.fr/images/favicon.ico",
     "slug": "mail-bot-hypnoticus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 806,
-    "timeDay": 753,
-    "timeWeek": 665,
-    "timeMonth": 768,
-    "timeYear": 806,
+    "time": 917,
+    "timeDay": 13456,
+    "timeWeek": 3852,
+    "timeMonth": 1562,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-12-20": 0,
+      "2021-12-20": 10,
       "2021-09-01": 21
     }
   }
