@@ -1,7 +1,7 @@
 url: https://lotus-gears.herokuapp.com/status
-status: down
-code: 503
-responseTime: 335
-lastUpdated: 2022-06-30T23:17:12.273Z
+status: up
+code: 200
+responseTime: 14552
+lastUpdated: 2022-07-01T01:02:04.383Z
 startTime: Wed May 12 2021 11:08:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
