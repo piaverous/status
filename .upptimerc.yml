@@ -6,24 +6,24 @@ sites:
   - name: Pivrous Blog
     url: https://pivrous.wtf/
     icon: https://pivrous.wtf/favicon.png
-  - name: Grafana
-    url: https://grafana.pivrous.wtf/
-    icon: https://grafana.pivrous.wtf/public/img/fav32.png
+  # - name: Grafana
+  #   url: https://grafana.pivrous.wtf/
+  #   icon: https://grafana.pivrous.wtf/public/img/fav32.png
   - name: JellyFin
     url: https://netflix.pivrous.wtf
     icon: https://netflix.pivrous.wtf/favicon.ico
   - name: Bernachon API
     url: https://europe-west6-bernachon-2021.cloudfunctions.net/bernachon-api/
     icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/265/goat_1f410.png
-  - name: LotusGears - Backend
-    url: https://lotus-gears.herokuapp.com/status
-    icon: https://lotusgears.pivrous.wtf/icon.png
-  - name: LotusGears - Frontend
-    url: https://lotusgears.pivrous.wtf/
-    icon: https://lotusgears.pivrous.wtf/icon.png
-  - name: LotusGears - Higher Cookery 
-    url: https://higher-cookery.herokuapp.com/healthz
-    icon: https://lotusgears.pivrous.wtf/icon.png
+  # - name: LotusGears - Backend
+  #   url: https://lotus-gears.herokuapp.com/status
+  #   icon: https://lotusgears.pivrous.wtf/icon.png
+  # - name: LotusGears - Frontend
+  #   url: https://lotusgears.pivrous.wtf/
+  #   icon: https://lotusgears.pivrous.wtf/icon.png
+  # - name: LotusGears - Higher Cookery 
+  #   url: https://higher-cookery.herokuapp.com/healthz
+  #   icon: https://lotusgears.pivrous.wtf/icon.png
   - name: Telegram Bot - Lotus In Shape
     url: https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec
     icon: https://tiboinshape.com//shop/img/favicon.ico
