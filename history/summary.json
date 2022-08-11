@@ -5,15 +5,15 @@
     "icon": "https://pivrous.wtf/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "60.51%",
+    "uptime": "60.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.35%",
-    "time": 1384,
-    "timeDay": 785,
-    "timeWeek": 521,
-    "timeMonth": 520,
+    "uptimeYear": "60.41%",
+    "time": 1382,
+    "timeDay": 417,
+    "timeWeek": 457,
+    "timeMonth": 517,
     "timeYear": 1364,
     "dailyMinutesDown": {
       "2022-01-15": 34,
@@ -161,8 +161,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 1440,
       "2021-08-13": 1440,
-      "2021-08-12": 1440,
-      "2021-08-11": 1440
+      "2021-08-12": 1440
     }
   },
   {
@@ -177,9 +176,9 @@
     "uptimeMonth": "96.92%",
     "uptimeYear": "87.27%",
     "time": 801,
-    "timeDay": 841,
-    "timeWeek": 662,
-    "timeMonth": 788,
+    "timeDay": 702,
+    "timeWeek": 657,
+    "timeMonth": 794,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2022-08-10": 19,
@@ -259,10 +258,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 3322,
-    "timeWeek": 1219,
-    "timeMonth": 688,
+    "time": 662,
+    "timeDay": 219,
+    "timeWeek": 709,
+    "timeMonth": 691,
     "timeYear": 496,
     "dailyMinutesDown": {}
   },
@@ -278,10 +277,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 926,
-    "timeDay": 980,
-    "timeWeek": 762,
-    "timeMonth": 758,
-    "timeYear": 909,
+    "timeDay": 759,
+    "timeWeek": 758,
+    "timeMonth": 759,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2021-09-01": 21
     }
@@ -297,10 +296,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 784,
-    "timeWeek": 647,
-    "timeMonth": 674,
+    "time": 836,
+    "timeDay": 649,
+    "timeWeek": 655,
+    "timeMonth": 675,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2021-09-01": 21
