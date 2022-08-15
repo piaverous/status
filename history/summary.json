@@ -5,16 +5,16 @@
     "icon": "https://pivrous.wtf/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "60.85%",
+    "uptime": "60.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.42%",
-    "time": 1376,
-    "timeDay": 137,
-    "timeWeek": 435,
-    "timeMonth": 520,
-    "timeYear": 1362,
+    "uptimeYear": "61.51%",
+    "time": 1374,
+    "timeDay": 682,
+    "timeWeek": 488,
+    "timeMonth": 519,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2022-01-15": 34,
       "2022-01-11": 22,
@@ -157,8 +157,7 @@
       "2021-08-19": 1440,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
-      "2021-08-16": 1440,
-      "2021-08-15": 1440
+      "2021-08-16": 1440
     }
   },
   {
@@ -172,10 +171,10 @@
     "uptimeWeek": "97.98%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "87.23%",
-    "time": 800,
+    "time": 799,
     "timeDay": 663,
     "timeWeek": 689,
-    "timeMonth": 791,
+    "timeMonth": 788,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2022-08-14": 184,
@@ -256,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 140,
-    "timeWeek": 644,
+    "time": 658,
+    "timeDay": 205,
+    "timeWeek": 636,
     "timeMonth": 628,
-    "timeYear": 495,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   },
   {
@@ -275,10 +274,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
-    "timeDay": 969,
-    "timeWeek": 774,
-    "timeMonth": 756,
-    "timeYear": 908,
+    "timeDay": 840,
+    "timeWeek": 781,
+    "timeMonth": 761,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2021-09-01": 21
     }
@@ -294,10 +293,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 647,
-    "timeWeek": 649,
-    "timeMonth": 667,
+    "time": 834,
+    "timeDay": 552,
+    "timeWeek": 629,
+    "timeMonth": 663,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2021-09-01": 21
