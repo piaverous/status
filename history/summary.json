@@ -5,16 +5,16 @@
     "icon": "https://pivrous.wtf/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "62.19%",
+    "uptime": "62.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.90%",
-    "time": 1350,
-    "timeDay": 458,
-    "timeWeek": 434,
-    "timeMonth": 481,
-    "timeYear": 1349,
+    "uptimeYear": "66.17%",
+    "time": 1349,
+    "timeDay": 728,
+    "timeWeek": 449,
+    "timeMonth": 487,
+    "timeYear": 1348,
     "dailyMinutesDown": {
       "2022-01-15": 34,
       "2022-01-11": 22,
@@ -140,8 +140,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   },
   {
@@ -150,16 +149,16 @@
     "icon": "https://netflix.pivrous.wtf/favicon.ico",
     "slug": "jelly-fin",
     "status": "up",
-    "uptime": "89.16%",
+    "uptime": "89.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "87.96%",
-    "time": 795,
-    "timeDay": 804,
-    "timeWeek": 637,
-    "timeMonth": 679,
-    "timeYear": 823,
+    "uptimeYear": "88.24%",
+    "time": 798,
+    "timeDay": 2481,
+    "timeWeek": 847,
+    "timeMonth": 719,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2022-08-14": 184,
       "2022-08-10": 19,
@@ -220,8 +219,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   },
   {
@@ -235,10 +233,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 245,
-    "timeWeek": 176,
-    "timeMonth": 426,
+    "time": 641,
+    "timeDay": 161,
+    "timeWeek": 178,
+    "timeMonth": 423,
     "timeYear": 486,
     "dailyMinutesDown": {}
   },
@@ -253,14 +251,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 795,
-    "timeWeek": 639,
-    "timeMonth": 753,
+    "time": 917,
+    "timeDay": 760,
+    "timeWeek": 672,
+    "timeMonth": 752,
     "timeYear": 908,
-    "dailyMinutesDown": {
-      "2021-09-01": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail Bot - Hypnoticus",
@@ -273,13 +269,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 1154,
-    "timeWeek": 633,
-    "timeMonth": 656,
+    "time": 827,
+    "timeDay": 464,
+    "timeWeek": 620,
+    "timeMonth": 648,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2021-09-01": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
