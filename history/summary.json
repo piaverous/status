@@ -5,16 +5,16 @@
     "icon": "https://pivrous.wtf/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "63.05%",
+    "uptime": "63.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.91%",
-    "time": 1334,
-    "timeDay": 799,
-    "timeWeek": 558,
-    "timeMonth": 535,
-    "timeYear": 1328,
+    "uptimeYear": "69.18%",
+    "time": 1333,
+    "timeDay": 849,
+    "timeWeek": 629,
+    "timeMonth": 547,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2022-01-15": 34,
       "2022-01-11": 22,
@@ -129,8 +129,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   },
   {
@@ -139,15 +138,15 @@
     "icon": "https://netflix.pivrous.wtf/favicon.ico",
     "slug": "jelly-fin",
     "status": "up",
-    "uptime": "89.41%",
+    "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "90.98%",
+    "uptimeYear": "91.25%",
     "time": 798,
-    "timeDay": 911,
-    "timeWeek": 804,
-    "timeMonth": 754,
+    "timeDay": 640,
+    "timeWeek": 801,
+    "timeMonth": 747,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-08-14": 184,
@@ -198,8 +197,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   },
   {
@@ -213,10 +211,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 222,
-    "timeWeek": 568,
-    "timeMonth": 293,
+    "time": 638,
+    "timeDay": 159,
+    "timeWeek": 570,
+    "timeMonth": 292,
     "timeYear": 494,
     "dailyMinutesDown": {}
   },
@@ -232,10 +230,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 915,
-    "timeDay": 793,
-    "timeWeek": 740,
-    "timeMonth": 739,
-    "timeYear": 908,
+    "timeDay": 472,
+    "timeWeek": 703,
+    "timeMonth": 732,
+    "timeYear": 906,
     "dailyMinutesDown": {}
   },
   {
@@ -250,10 +248,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 824,
-    "timeDay": 828,
-    "timeWeek": 615,
-    "timeMonth": 626,
-    "timeYear": 851,
+    "timeDay": 375,
+    "timeWeek": 588,
+    "timeMonth": 620,
+    "timeYear": 846,
     "dailyMinutesDown": {}
   }
 ]
