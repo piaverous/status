@@ -12,9 +12,9 @@ sites:
   - name: JellyFin
     url: https://netflix.pivrous.wtf
     icon: https://netflix.pivrous.wtf/favicon.ico
-  - name: Bernachon API
-    url: https://europe-west6-bernachon-2021.cloudfunctions.net/bernachon-api/
-    icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/265/goat_1f410.png
+  # - name: Bernachon API
+  #  url: https://europe-west6-bernachon-2021.cloudfunctions.net/bernachon-api/
+  #  icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/265/goat_1f410.png
   # - name: LotusGears - Backend
   #   url: https://lotus-gears.herokuapp.com/status
   #   icon: https://lotusgears.pivrous.wtf/icon.png
