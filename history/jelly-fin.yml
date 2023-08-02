@@ -1,7 +1,7 @@
 url: https://netflix.pivrous.wtf
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2023-08-02T14:34:30.859Z
+status: down
+code: 502
+responseTime: 519
+lastUpdated: 2023-08-02T15:25:17.725Z
 startTime: Tue May 11 2021 20:00:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
