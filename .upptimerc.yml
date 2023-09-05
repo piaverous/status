@@ -24,9 +24,9 @@ sites:
   # - name: LotusGears - Higher Cookery
   #   url: https://higher-cookery.herokuapp.com/healthz
   #   icon: https://lotusgears.pivrous.fr/icon.png
-  - name: Telegram Bot - Lotus In Shape
-    url: https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec
-    icon: https://tiboinshape.com//shop/img/favicon.ico
+  # - name: Telegram Bot - Lotus In Shape
+  #   url: https://script.google.com/macros/s/AKfycbwyDBaYg_7f37_JJ8q9FLE1QH0O0EWAnwRdj0ZTP1_QFA6TNLqPjE9wTPVHCKw3goDpUQ/exec
+  #   icon: https://tiboinshape.com//shop/img/favicon.ico
   - name: Mail Bot - Hypnoticus
     url: https://script.google.com/macros/s/AKfycbwx3nl5T7pkQFWoR8Dx_wclWltXJVvNGasvQUChHK1emB-kbbgWyEXGuIMoIimL-Zp0sQ/exec
     icon: https://www.martine-chomik-hypnose.fr/images/favicon.ico
