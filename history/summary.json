@@ -5,14 +5,14 @@
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "80.34%",
+    "uptime": "80.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 524,
-    "timeDay": 497,
-    "timeWeek": 295,
+    "timeDay": 328,
+    "timeWeek": 297,
     "timeMonth": 314,
     "timeYear": 526,
     "dailyMinutesDown": {
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.16%",
-    "time": 813,
-    "timeDay": 657,
-    "timeWeek": 504,
-    "timeMonth": 546,
-    "timeYear": 800,
+    "time": 812,
+    "timeDay": 495,
+    "timeWeek": 509,
+    "timeMonth": 541,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-11-04": 113,
       "2023-09-30": 464,
@@ -54,8 +54,7 @@
       "2023-03-14": 602,
       "2023-03-13": 109,
       "2023-02-14": 38,
-      "2023-02-01": 48,
-      "2022-11-25": 22
+      "2023-02-01": 48
     }
   },
   {
@@ -70,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
-    "timeDay": 1009,
-    "timeWeek": 907,
+    "timeDay": 931,
+    "timeWeek": 923,
     "timeMonth": 961,
     "timeYear": 812,
     "dailyMinutesDown": {}
