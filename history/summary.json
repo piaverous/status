@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 483,
-    "timeDay": 410,
-    "timeWeek": 289,
-    "timeMonth": 313,
+    "timeDay": 347,
+    "timeWeek": 288,
+    "timeMonth": 312,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2023-09-05": 387,
@@ -34,10 +34,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.17%",
     "time": 770,
-    "timeDay": 716,
-    "timeWeek": 549,
-    "timeMonth": 562,
-    "timeYear": 719,
+    "timeDay": 598,
+    "timeWeek": 541,
+    "timeMonth": 560,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2024-02-02": 33,
       "2024-01-21": 24,
@@ -55,26 +55,6 @@
       "2023-05-28": 529,
       "2023-03-14": 602,
       "2023-03-13": 109
-    }
-  },
-  {
-    "name": "Mail Bot - Hypnoticus",
-    "url": "https://script.google.com/macros/s/AKfycbwx3nl5T7pkQFWoR8Dx_wclWltXJVvNGasvQUChHK1emB-kbbgWyEXGuIMoIimL-Zp0sQ/exec",
-    "icon": "https://www.martine-chomik-hypnose.fr/images/favicon.ico",
-    "slug": "mail-bot-hypnoticus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 1497,
-    "timeWeek": 1300,
-    "timeMonth": 1112,
-    "timeYear": 868,
-    "dailyMinutesDown": {
-      "2024-02-26": 18
     }
   }
 ]
