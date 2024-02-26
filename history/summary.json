@@ -5,7 +5,7 @@
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "82.15%",
+    "uptime": "82.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -62,17 +62,19 @@
     "url": "https://script.google.com/macros/s/AKfycbwx3nl5T7pkQFWoR8Dx_wclWltXJVvNGasvQUChHK1emB-kbbgWyEXGuIMoIimL-Zp0sQ/exec",
     "icon": "https://www.martine-chomik-hypnose.fr/images/favicon.ico",
     "slug": "mail-bot-hypnoticus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 848,
-    "timeWeek": 870,
-    "timeMonth": 942,
-    "timeYear": 846,
-    "dailyMinutesDown": {}
+    "time": 820,
+    "timeDay": 601,
+    "timeWeek": 806,
+    "timeMonth": 924,
+    "timeYear": 844,
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   }
 ]
