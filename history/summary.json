@@ -62,19 +62,19 @@
     "url": "https://script.google.com/macros/s/AKfycbwx3nl5T7pkQFWoR8Dx_wclWltXJVvNGasvQUChHK1emB-kbbgWyEXGuIMoIimL-Zp0sQ/exec",
     "icon": "https://www.martine-chomik-hypnose.fr/images/favicon.ico",
     "slug": "mail-bot-hypnoticus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 1693,
-    "timeWeek": 1342,
-    "timeMonth": 1103,
+    "timeDay": 1622,
+    "timeWeek": 1323,
+    "timeMonth": 1102,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2024-02-26": 18
+      "2024-02-26": 24
     }
   }
 ]
