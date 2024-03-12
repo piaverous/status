@@ -5,15 +5,15 @@
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "82.39%",
+    "uptime": "82.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 478,
-    "timeDay": 315,
-    "timeWeek": 281,
-    "timeMonth": 282,
+    "timeDay": 234,
+    "timeWeek": 273,
+    "timeMonth": 283,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2023-09-05": 387,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 755,
-    "timeDay": 391,
-    "timeWeek": 539,
+    "timeDay": 463,
+    "timeWeek": 552,
     "timeMonth": 531,
-    "timeYear": 707,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2024-02-02": 33,
       "2024-01-21": 24,
@@ -53,8 +53,7 @@
       "2023-06-22": 89,
       "2023-05-29": 832,
       "2023-05-28": 529,
-      "2023-03-14": 602,
-      "2023-03-13": 109
+      "2023-03-14": 602
     }
   }
 ]
