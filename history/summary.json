@@ -5,16 +5,16 @@
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "82.41%",
+    "uptime": "82.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 478,
-    "timeDay": 234,
-    "timeWeek": 273,
-    "timeMonth": 283,
-    "timeYear": 444,
+    "timeDay": 555,
+    "timeWeek": 303,
+    "timeMonth": 293,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2023-09-05": 387,
       "2023-08-04": 477,
@@ -28,15 +28,15 @@
     "icon": "https://netflix.pivrous.fr/favicon.ico",
     "slug": "jelly-fin",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 755,
-    "timeDay": 463,
-    "timeWeek": 552,
-    "timeMonth": 531,
+    "time": 754,
+    "timeDay": 639,
+    "timeWeek": 579,
+    "timeMonth": 537,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2024-02-02": 33,
@@ -52,8 +52,7 @@
       "2023-08-02": 106,
       "2023-06-22": 89,
       "2023-05-29": 832,
-      "2023-05-28": 529,
-      "2023-03-14": 602
+      "2023-05-28": 529
     }
   }
 ]
