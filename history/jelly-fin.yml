@@ -1,7 +1,7 @@
 url: https://netflix.pivrous.fr
-status: down
-code: 502
-responseTime: 672
-lastUpdated: 2024-08-19T13:42:26.066Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2024-08-19T13:48:18.213Z
 startTime: 2021-05-11T20:00:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
