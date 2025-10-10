@@ -4,7 +4,7 @@
     "url": "https://pivrous.fr/",
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 387,
     "timeMonth": 396,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   },
   {
     "name": "JellyFin",
