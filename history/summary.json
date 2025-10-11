@@ -6,18 +6,16 @@
     "slug": "pivrous-blog",
     "status": "up",
     "uptime": "88.71%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 445,
-    "timeWeek": 415,
+    "timeDay": 481,
+    "timeWeek": 354,
     "timeMonth": 403,
     "timeYear": 410,
-    "dailyMinutesDown": {
-      "2025-10-10": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JellyFin",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 573,
-    "timeDay": 488,
-    "timeWeek": 520,
-    "timeMonth": 542,
+    "timeDay": 536,
+    "timeWeek": 511,
+    "timeMonth": 544,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-10-01": 24,
