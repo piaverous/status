@@ -1,7 +1,7 @@
 url: https://pivrous.fr/
-status: up
-code: 200
-responseTime: 717
-lastUpdated: 2025-11-17T23:18:33.966Z
+status: down
+code: 500
+responseTime: 255
+lastUpdated: 2025-11-18T11:37:30.525Z
 startTime: 2021-05-11T20:00:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
