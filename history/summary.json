@@ -4,19 +4,19 @@
     "url": "https://pivrous.fr/",
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "88.98%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 590,
-    "timeWeek": 435,
-    "timeMonth": 430,
-    "timeYear": 419,
+    "time": 402,
+    "timeDay": 460,
+    "timeWeek": 398,
+    "timeMonth": 419,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 0
     }
   },
   {
