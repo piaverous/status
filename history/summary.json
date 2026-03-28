@@ -5,16 +5,16 @@
     "icon": "https://pivrous.fr/favicon.png",
     "slug": "pivrous-blog",
     "status": "up",
-    "uptime": "89.77%",
+    "uptime": "89.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 269,
-    "timeWeek": 414,
-    "timeMonth": 416,
-    "timeYear": 443,
+    "time": 426,
+    "timeDay": 281,
+    "timeWeek": 382,
+    "timeMonth": 402,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-11-18": 22
     }
@@ -31,16 +31,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 577,
-    "timeDay": 415,
-    "timeWeek": 614,
-    "timeMonth": 608,
-    "timeYear": 581,
+    "timeDay": 488,
+    "timeWeek": 600,
+    "timeMonth": 610,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-10-01": 24,
       "2025-09-01": 75,
       "2025-08-14": 41,
-      "2025-05-04": 18,
-      "2025-03-28": 15
+      "2025-05-04": 18
     }
   }
 ]
