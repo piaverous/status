@@ -3,9 +3,9 @@ owner: piaverous # Your GitHub organization or username, where this repository l
 repo: status # The name of this repository
 
 sites:
-  - name: Pivrous Blog
-    url: https://pivrous.fr/
-    icon: https://pivrous.fr/favicon.png
+  # - name: Pivrous Blog
+  #   url: https://pivrous.fr/
+  #   icon: https://pivrous.fr/favicon.png
   # - name: Grafana
   #   url: https://grafana.pivrous.fr/
   #   icon: https://grafana.pivrous.fr/public/img/fav32.png
